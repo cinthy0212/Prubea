@@ -28,3 +28,4 @@ void main(){
 	char num2[]="Cinthya";
 	int num=Verificar(num1,num2);	
 	}
+HOLA
